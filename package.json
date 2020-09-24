@@ -20,5 +20,13 @@
     "@babel/preset-env": "^7.4.4",
     "babel-jest": "^24.8.0",
     "jest": "^24.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/823260355/npm-basic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/823260355/npm-basic/issues"
+  },
+  "homepage": "https://github.com/823260355/npm-basic#readme"
 }
